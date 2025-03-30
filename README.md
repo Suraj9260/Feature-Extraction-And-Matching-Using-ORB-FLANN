@@ -21,7 +21,7 @@ This project leverages the power of computer vision to identify and match keypoi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FurkanKhann/Feature-Extraction-And-Matching-Using-ORB-FLANN.git
+   git clone https://github.com/Suraj9260/Feature-Extraction-And-Matching-Using-ORB-FLANN.git
 2. Navigate to the project directory:
    
    ```bash
