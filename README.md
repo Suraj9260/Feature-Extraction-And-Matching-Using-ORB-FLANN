@@ -44,9 +44,9 @@ This project leverages the power of computer vision to identify and match keypoi
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## :handshake: Contact
-For any questions or suggestions, feel free to reach out to me at <a href='https://github.com/FurkanKhann'>Furkan Khann</a>.
+For any questions or suggestions, feel free to reach out to me at <a href='https://github.com/Suraj9260'>Suraj Kumar</a>.
 <br>
-Furkan Khan - - khanfurkan575@gmail.com
+
 
 
 
